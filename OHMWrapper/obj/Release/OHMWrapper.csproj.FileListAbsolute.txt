@@ -1,0 +1,8 @@
+C:\Users\Josh\Desktop\HardwareDiagnostics\OHMWrapper\obj\Release\OHMWrapper.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\HardwareDiagnostics\OHMWrapper\bin\Release\OHMWrapper.dll
+C:\Users\Josh\Desktop\HardwareDiagnostics\OHMWrapper\bin\Release\OHMWrapper.pdb
+C:\Users\Josh\Desktop\HardwareDiagnostics\OHMWrapper\bin\Release\HelperLibrary.dll
+C:\Users\Josh\Desktop\HardwareDiagnostics\OHMWrapper\bin\Release\OpenHardwareMonitorLib.dll
+C:\Users\Josh\Desktop\HardwareDiagnostics\OHMWrapper\bin\Release\HelperLibrary.pdb
+C:\Users\Josh\Desktop\HardwareDiagnostics\OHMWrapper\obj\Release\OHMWrapper.dll
+C:\Users\Josh\Desktop\HardwareDiagnostics\OHMWrapper\obj\Release\OHMWrapper.pdb

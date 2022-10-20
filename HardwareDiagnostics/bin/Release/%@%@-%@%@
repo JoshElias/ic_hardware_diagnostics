@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HardwareDiagnostics>
+  <ASUSM4A89GTD-PROUSB3 Name="ASUSM4A89GTD-PROUSB3">
+    <ITEIT8721F>
+      <Voltage_0>2.832</Voltage_0>
+      <Voltage_1>2.784</Voltage_1>
+      <Voltage_2>1.368</Voltage_2>
+      <Voltage_3>1.68</Voltage_3>
+      <Voltage_4>1.548</Voltage_4>
+      <Voltage_5>2.388</Voltage_5>
+      <Voltage_6>0.816</Voltage_6>
+      <Voltage_7>4.704</Voltage_7>
+      <Voltage_8>3.36</Voltage_8>
+      <Temperature_0>38</Temperature_0>
+      <Temperature_1>30</Temperature_1>
+      <Fan_0>1218.411</Fan_0>
+    </ITEIT8721F>
+  </ASUSM4A89GTD-PROUSB3>
+  <Processor Name="AMDPhenomIIX4965Processor">
+    <Load_1>23.80952</Load_1>
+    <Load_2>26.19048</Load_2>
+    <Load_3>23.80952</Load_3>
+    <Load_4>42.85714</Load_4>
+    <Load_0>29.16667</Load_0>
+    <Clock_1>3411.468</Clock_1>
+    <Clock_2>3411.468</Clock_2>
+    <Clock_3>3411.468</Clock_3>
+    <Clock_4>3411.468</Clock_4>
+    <Temperature_0>42.375</Temperature_0>
+    <Clock_0>200.6746</Clock_0>
+  </Processor>
+  <Manufacturer00ModulePartNumber00 Name="Manufacturer00ModulePartNumber00">
+    <Load_0>45.52904</Load_0>
+    <Data_0>3.641514</Data_0>
+    <Data_1>4.356709</Data_1>
+  </Manufacturer00ModulePartNumber00>
+  <AMDRadeonHD6800Series Name="AMDRadeonHD6800Series">
+    <Temperature_0>54</Temperature_0>
+    <Control_0>44</Control_0>
+    <Clock_0>775</Clock_0>
+    <Clock_1>1100</Clock_1>
+    <Voltage_0>1.15</Voltage_0>
+    <Load_0>0</Load_0>
+  </AMDRadeonHD6800Series>
+  <AMDRadeonHD6800Series Name="AMDRadeonHD6800Series">
+    <Temperature_0>44</Temperature_0>
+    <Control_0>48</Control_0>
+    <Clock_0>100</Clock_0>
+    <Clock_1>150</Clock_1>
+    <Voltage_0>1.15</Voltage_0>
+    <Load_0>0</Load_0>
+  </AMDRadeonHD6800Series>
+  <WDCWD100FAEX-00Z3A0 Name="WDCWD100FAEX-00Z3A0">
+    <Temperature_0>31</Temperature_0>
+    <Load_0>57.7511</Load_0>
+  </WDCWD100FAEX-00Z3A0>
+  <S.M.A.R.T.>
+    <ReadErrorRate FailureImminent="False">200</ReadErrorRate>
+    <SpinUpTime FailureImminent="False">168</SpinUpTime>
+    <StartStopCount FailureImminent="False">100</StartStopCount>
+    <ReallocatedSectorsCount FailureImminent="False">200</ReallocatedSectorsCount>
+    <SeekErrorRate FailureImminent="False">200</SeekErrorRate>
+    <PowerOnHoursPOH FailureImminent="False">94</PowerOnHoursPOH>
+    <SpinRetryCount FailureImminent="False">100</SpinRetryCount>
+    <CalibrationRetryCount FailureImminent="False">100</CalibrationRetryCount>
+    <PowerCycleCount FailureImminent="False">100</PowerCycleCount>
+    <PoweroffRetractCount FailureImminent="False">200</PoweroffRetractCount>
+    <LoadCycleCount FailureImminent="False">200</LoadCycleCount>
+    <Temperature FailureImminent="False">104</Temperature>
+    <ReallocationEventCount FailureImminent="False">200</ReallocationEventCount>
+    <CurrentPendingSectorCount FailureImminent="False">200</CurrentPendingSectorCount>
+    <UncorrectableSectorCount FailureImminent="False">200</UncorrectableSectorCount>
+    <UltraDMACRCErrorCount FailureImminent="False">200</UltraDMACRCErrorCount>
+    <MultiZoneErrorRate FailureImminent="False">200</MultiZoneErrorRate>
+  </S.M.A.R.T.>
+</HardwareDiagnostics>

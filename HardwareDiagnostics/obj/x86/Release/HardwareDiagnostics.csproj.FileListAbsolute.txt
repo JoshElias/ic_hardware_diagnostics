@@ -1,0 +1,14 @@
+C:\Users\Josh\Desktop\HardwareDiagnostics\HardwareDiagnostics\bin\Release\HardwareDiagnostics.exe.config
+C:\Users\Josh\Desktop\HardwareDiagnostics\HardwareDiagnostics\bin\Release\HardwareDiagnostics.exe
+C:\Users\Josh\Desktop\HardwareDiagnostics\HardwareDiagnostics\bin\Release\HardwareDiagnostics.pdb
+C:\Users\Josh\Desktop\HardwareDiagnostics\HardwareDiagnostics\bin\Release\OpenHardwareMonitorLib.dll
+C:\Users\Josh\Desktop\HardwareDiagnostics\HardwareDiagnostics\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\HardwareDiagnostics\HardwareDiagnostics\obj\x86\Release\HardwareDiagnostics.exe
+C:\Users\Josh\Desktop\HardwareDiagnostics\HardwareDiagnostics\obj\x86\Release\HardwareDiagnostics.pdb
+C:\Users\elia0028\Desktop\HardwareDiagnostics\HardwareDiagnostics\bin\Release\HardwareDiagnostics.exe.config
+C:\Users\elia0028\Desktop\HardwareDiagnostics\HardwareDiagnostics\bin\Release\HardwareDiagnostics.exe
+C:\Users\elia0028\Desktop\HardwareDiagnostics\HardwareDiagnostics\bin\Release\HardwareDiagnostics.pdb
+C:\Users\elia0028\Desktop\HardwareDiagnostics\HardwareDiagnostics\bin\Release\OpenHardwareMonitorLib.dll
+C:\Users\elia0028\Desktop\HardwareDiagnostics\HardwareDiagnostics\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\elia0028\Desktop\HardwareDiagnostics\HardwareDiagnostics\obj\x86\Release\HardwareDiagnostics.exe
+C:\Users\elia0028\Desktop\HardwareDiagnostics\HardwareDiagnostics\obj\x86\Release\HardwareDiagnostics.pdb

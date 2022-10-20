@@ -1,0 +1,2 @@
+C:\Users\Josh\Desktop\HardwareDiagnostics\HardwareDiagnostics\bin\Debug\HardwareDiagnostics.exe.config
+C:\Users\elia0028\Desktop\HardwareDiagnostics\HardwareDiagnostics\bin\Debug\HardwareDiagnostics.exe.config
